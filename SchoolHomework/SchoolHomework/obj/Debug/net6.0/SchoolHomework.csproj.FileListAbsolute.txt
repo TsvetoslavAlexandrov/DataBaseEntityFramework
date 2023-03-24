@@ -1,0 +1,15 @@
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\bin\Debug\net6.0\SchoolHomework.exe
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\bin\Debug\net6.0\SchoolHomework.deps.json
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\bin\Debug\net6.0\SchoolHomework.runtimeconfig.json
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\bin\Debug\net6.0\SchoolHomework.dll
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\bin\Debug\net6.0\SchoolHomework.pdb
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\obj\Debug\net6.0\SchoolHomework.csproj.AssemblyReference.cache
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\obj\Debug\net6.0\SchoolHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\obj\Debug\net6.0\SchoolHomework.AssemblyInfoInputs.cache
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\obj\Debug\net6.0\SchoolHomework.AssemblyInfo.cs
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\obj\Debug\net6.0\SchoolHomework.csproj.CoreCompileInputs.cache
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\obj\Debug\net6.0\SchoolHomework.dll
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\obj\Debug\net6.0\refint\SchoolHomework.dll
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\obj\Debug\net6.0\SchoolHomework.pdb
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\obj\Debug\net6.0\SchoolHomework.genruntimeconfig.cache
+C:\DataBase\EntityFramework\SchoolHomework\SchoolHomework\obj\Debug\net6.0\ref\SchoolHomework.dll

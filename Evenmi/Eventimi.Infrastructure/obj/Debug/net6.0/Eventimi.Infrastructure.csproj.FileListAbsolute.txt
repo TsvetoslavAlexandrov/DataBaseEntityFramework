@@ -1,0 +1,14 @@
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\bin\Debug\net6.0\Eventimi.Infrastructure.deps.json
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\bin\Debug\net6.0\Eventimi.Infrastructure.runtimeconfig.json
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\bin\Debug\net6.0\Eventimi.Infrastructure.dll
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\bin\Debug\net6.0\Eventimi.Infrastructure.pdb
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\obj\Debug\net6.0\Eventimi.Infrastructure.csproj.AssemblyReference.cache
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\obj\Debug\net6.0\Eventimi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\obj\Debug\net6.0\Eventimi.Infrastructure.AssemblyInfoInputs.cache
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\obj\Debug\net6.0\Eventimi.Infrastructure.AssemblyInfo.cs
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\obj\Debug\net6.0\Eventimi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\obj\Debug\net6.0\Eventimi.Infrastructure.dll
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\obj\Debug\net6.0\refint\Eventimi.Infrastructure.dll
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\obj\Debug\net6.0\Eventimi.Infrastructure.pdb
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\obj\Debug\net6.0\Eventimi.Infrastructure.genruntimeconfig.cache
+C:\DataBase\EntityFramework\Evenmi\Eventimi.Infrastructure\obj\Debug\net6.0\ref\Eventimi.Infrastructure.dll

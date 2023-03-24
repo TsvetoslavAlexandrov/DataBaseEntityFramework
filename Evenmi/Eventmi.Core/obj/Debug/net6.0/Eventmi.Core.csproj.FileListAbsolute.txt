@@ -1,0 +1,15 @@
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.deps.json
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.dll
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.pdb
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\bin\Debug\net6.0\Eventimi.Infrastructure.dll
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\bin\Debug\net6.0\Eventimi.Infrastructure.pdb
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.AssemblyReference.cache
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.AssemblyInfoInputs.cache
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.AssemblyInfo.cs
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.CoreCompileInputs.cache
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.CopyComplete
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.dll
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\obj\Debug\net6.0\refint\Eventmi.Core.dll
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.pdb
+C:\DataBase\EntityFramework\Evenmi\Eventmi.Core\obj\Debug\net6.0\ref\Eventmi.Core.dll
